@@ -25,10 +25,10 @@ exports.oss = {
     enable: true,
     package: 'egg-oss',
     client: {
-        accessKeyId: 'LTAIZ8cgd0CsaFXE',
-        accessKeySecret: 'lujTzzVrzeVudFs2nIprAdwfpxWjsI',
-        bucket: 'baizu-res',
-        endpoint: 'oss-cn-shanghai',
+        accessKeyId: '',
+        accessKeySecret: '',
+        bucket: '',
+        endpoint: '',
         timeout: '60s',
     },
 };
